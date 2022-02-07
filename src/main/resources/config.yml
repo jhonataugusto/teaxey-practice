@@ -1,0 +1,21 @@
+# Definições das TAGS
+
+owner:
+  prefix: '&4'
+  prefix_chat: '&4[Owner]&f'
+  permission: 'permission.kinox.owner'
+
+admin:
+  prefix: '&c'
+  prefix_chat: '&c[Admin]&f'
+  permission: 'permission.kinox.admin'
+
+mod:
+  prefix: '&d'
+  prefix_chat: '&d[Mod]&f'
+  permission: 'permission.kinox.mod'
+
+member:
+  prefix: '&7'
+  prefix_chat: '&7[Member]&f'
+  permission: 'permission.kinox.admin'

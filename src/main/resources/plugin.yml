@@ -1,0 +1,8 @@
+name: KinoxFixer
+version: '${version}'
+main: paper.kinox.Kinox
+description: plugin que fixa alguns erros no practice
+commands:
+  fastpot:
+  ping:
+  players:
